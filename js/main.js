@@ -1,6 +1,10 @@
 $(window).on('load', function() {
   $("body").removeClass("preload");
 });
+AOS.init({
+    once: true,
+    duration: 1000,
+});
 // Nav
 let openNav = document.querySelector(".open");
 let closeNav = document.querySelector(".close");
