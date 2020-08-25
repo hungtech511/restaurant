@@ -219,12 +219,12 @@ h1,h2{
 
 /*-----------------Special-------------*/
 .special{
-	background:url("../images/bg_3.jpg")no-repeat center/auto;
-	background:linear-gradient(to bottom right, rgba(0, 0, 0, 0.6) 49.9%,rgba(0, 0, 0, 0.6) 50.1%),url("../images/bg_3.jpg")no-repeat center/auto;
-	background: -moz-linear-gradient(to bottom right,rgba(0, 0, 0, 0.6) 49.9%,rgba(0, 0, 0, 0.6) 50.1%),url("../images/bg_3.jpg")no-repeat center/auto;
-	background: -webkit-linear-gradient(to bottom right,rgba(0, 0, 0, 0.6) 49.9%,rgba(0, 0, 0, 0.6) 50.1%),url("../images/bg_3.jpg")no-repeat center/auto;
-	background: -ms-linear-gradient(to bottom right,rgba(0, 0, 0, 0.6) 49.9%,rgba(0, 0, 0, 0.6) 50.1%),url("../images/bg_3.jpg")no-repeat center/auto;
-	background: -o-linear-gradient(to bottom right,rgba(0, 0, 0, 0.6) 49.9%,rgba(0, 0, 0, 0.6) 50.1%),url("../images/bg_3.jpg")no-repeat center/auto;
+	background:url("../images/bg_3.jpg")no-repeat center/auto fixed;
+	background:linear-gradient(to bottom right, rgba(0, 0, 0, 0.6) 49.9%,rgba(0, 0, 0, 0.6) 50.1%),url("../images/bg_3.jpg")no-repeat center/auto fixed;
+	background: -moz-linear-gradient(to bottom right,rgba(0, 0, 0, 0.6) 49.9%,rgba(0, 0, 0, 0.6) 50.1%),url("../images/bg_3.jpg")no-repeat center/auto fixed;
+	background: -webkit-linear-gradient(to bottom right,rgba(0, 0, 0, 0.6) 49.9%,rgba(0, 0, 0, 0.6) 50.1%),url("../images/bg_3.jpg")no-repeat center/auto fixed;
+	background: -ms-linear-gradient(to bottom right,rgba(0, 0, 0, 0.6) 49.9%,rgba(0, 0, 0, 0.6) 50.1%),url("../images/bg_3.jpg")no-repeat center/auto fixed;
+	background: -o-linear-gradient(to bottom right,rgba(0, 0, 0, 0.6) 49.9%,rgba(0, 0, 0, 0.6) 50.1%),url("../images/bg_3.jpg")no-repeat center/auto fixed;
 	height:80vh;
 	display: flex;
 	align-items: center;
@@ -295,12 +295,12 @@ h1,h2{
 }
 /*-----------------------------------*/
 .service{
-	background:url("../images/bg_4.jpg")no-repeat center/auto;
-	background:linear-gradient(to bottom right, rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_4.jpg")no-repeat center/auto;
-	background: -moz-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_4.jpg")no-repeat center/auto;
-	background: -webkit-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_4.jpg")no-repeat center/auto;
-	background: -ms-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_4.jpg")no-repeat center/auto;
-	background: -o-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_4.jpg")no-repeat center/auto;
+	background:url("../images/bg_4.jpg")no-repeat center/auto fixed;
+	background:linear-gradient(to bottom right, rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_4.jpg")no-repeat center/auto fixed;
+	background: -moz-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_4.jpg")no-repeat center/auto fixed;
+	background: -webkit-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_4.jpg")no-repeat center/auto fixed;
+	background: -ms-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_4.jpg")no-repeat center/auto fixed;
+	background: -o-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_4.jpg")no-repeat center/auto fixed;
 	height:100vh;		
 }
 /*-------------Reservation--------------*/
@@ -341,13 +341,14 @@ h1,h2{
 /*--------------------------------------*/
 /*-------------Dessert-----------------*/
 .dessert{
-	background:url("../images/bg_2.jpg")no-repeat center/auto;
-	background:linear-gradient(to bottom right, rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_2.jpg")no-repeat center/auto;
-	background: -moz-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_2.jpg")no-repeat center/auto;
-	background: -webkit-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_2.jpg")no-repeat center/auto;
-	background: -ms-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_2.jpg")no-repeat center/auto;
-	background: -o-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_2.jpg")no-repeat center/auto;
-	height:80vh;		
+	background:url("../images/bg_2.jpg")no-repeat center/auto fixed;
+	background:linear-gradient(to bottom right, rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_2.jpg")no-repeat center/auto fixed;
+	background: -moz-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_2.jpg")no-repeat center/auto fixed;
+	background: -webkit-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_2.jpg")no-repeat center/auto fixed;
+	background: -ms-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_2.jpg")no-repeat center/auto fixed;
+	background: -o-linear-gradient(to bottom right,rgba(0, 0, 0, 0.1) 49.9%,rgba(0, 0, 0, 0.1) 50.1%),url("../images/bg_2.jpg")no-repeat center/auto fixed;
+	height:80vh;
+	z-index: -1;		
 }
 .dessert .hero-para{
 	margin:0.1rem;
